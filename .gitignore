@@ -1,0 +1,34 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Local development settings
+.env
+*.log
+
+# Temporary files
+*.tmp
+.coverage
+htmlcov/
+
+# Project-specific
+Assets/*.mp3
+Assets/*.wav
+Assets/*.xml 

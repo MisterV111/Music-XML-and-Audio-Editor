@@ -1,0 +1,8722 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE score-partwise PUBLIC '-//Recordare//DTD MusicXML 2.0 Partwise//EN' 'http://www.musicxml.org/dtds/2.0/partwise.dtd'>
+<score-partwise version="2.0">
+ <work>
+  <work-title>Riptide</work-title>
+ </work>
+ <identification>
+  <creator type="composer">Vance Joy</creator>
+  <encoding>
+   <encoding-date>2023-11-09</encoding-date>
+   <software>Guitar Pro 8.1.1</software>
+   <supports value="yes" element="print" attribute="new-system" type="yes"/>
+  </encoding>
+ </identification>
+ <defaults>
+  <scaling>
+   <millimeters>6.4</millimeters>
+   <tenths>40</tenths>
+  </scaling>
+  <page-layout>
+   <page-height>1850</page-height>
+   <page-width>1310</page-width>
+  </page-layout>
+ </defaults>
+ <credit>
+  <credit-words justify="center" valign="top" font-size="24">Riptide</credit-words>
+ </credit>
+ <credit>
+  <credit-words justify="center" valign="top" font-size="14">MVV Chords</credit-words>
+ </credit>
+ <credit>
+  <credit-words justify="center" valign="top" font-size="14">Vance Joy</credit-words>
+ </credit>
+ <part-list>
+  <score-part id="P1">
+   <part-name>MVV Chords Guitar</part-name>
+   <part-abbreviation>s.guit.</part-abbreviation>
+   <midi-instrument id="P1">
+    <midi-channel>1</midi-channel>
+    <midi-bank>1</midi-bank>
+    <midi-program>26</midi-program>
+    <volume>80</volume>
+    <pan>0</pan>
+   </midi-instrument>
+  </score-part>
+ </part-list>
+ <part id="P1">
+  <measure number="1">
+   <print new-system="yes"/>
+   <attributes>
+    <divisions>1</divisions>
+    <key>
+     <fifths>0</fifths>
+     <mode>minor</mode>
+    </key>
+    <time>
+     <beats>4</beats>
+     <beat-type>4</beat-type>
+    </time>
+    <staves>2</staves>
+    <clef number="1">
+     <sign>G</sign>
+     <line>2</line>
+    </clef>
+    <clef number="2">
+     <sign>TAB</sign>
+     <line>5</line>
+    </clef>
+    <staff-details number="1">
+<?GP 
+<root>
+<staff-tuning line="1">
+<tuning-step>E</tuning-step>
+<tuning-octave>2</tuning-octave>
+</staff-tuning>
+<staff-tuning line="2">
+<tuning-step>A</tuning-step>
+<tuning-octave>2</tuning-octave>
+</staff-tuning>
+<staff-tuning line="3">
+<tuning-step>D</tuning-step>
+<tuning-octave>3</tuning-octave>
+</staff-tuning>
+<staff-tuning line="4">
+<tuning-step>G</tuning-step>
+<tuning-octave>3</tuning-octave>
+</staff-tuning>
+<staff-tuning line="5">
+<tuning-step>B</tuning-step>
+<tuning-octave>3</tuning-octave>
+</staff-tuning>
+<staff-tuning line="6">
+<tuning-step>E</tuning-step>
+<tuning-octave>4</tuning-octave>
+</staff-tuning>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <staff-lines>6</staff-lines>
+     <staff-tuning line="1">
+      <tuning-step>E</tuning-step>
+      <tuning-octave>2</tuning-octave>
+     </staff-tuning>
+     <staff-tuning line="2">
+      <tuning-step>A</tuning-step>
+      <tuning-octave>2</tuning-octave>
+     </staff-tuning>
+     <staff-tuning line="3">
+      <tuning-step>D</tuning-step>
+      <tuning-octave>3</tuning-octave>
+     </staff-tuning>
+     <staff-tuning line="4">
+      <tuning-step>G</tuning-step>
+      <tuning-octave>3</tuning-octave>
+     </staff-tuning>
+     <staff-tuning line="5">
+      <tuning-step>B</tuning-step>
+      <tuning-octave>3</tuning-octave>
+     </staff-tuning>
+     <staff-tuning line="6">
+      <tuning-step>E</tuning-step>
+      <tuning-octave>4</tuning-octave>
+     </staff-tuning>
+     <capo>1</capo>
+    </staff-details>
+    <transpose number="1">
+     <diatonic>0</diatonic>
+     <chromatic>0</chromatic>
+     <octave-change>-1</octave-change>
+    </transpose>
+   </attributes>
+   <direction directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>92</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="92"/>
+   </direction>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction>
+    <direction-type>
+     <rehearsal>Intro</rehearsal>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="2">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>97.0502</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="97"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="3">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction>
+    <direction-type>
+     <rehearsal>Verse</rehearsal>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>99.1011</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="99"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="4">
+   <print new-system="yes"/>
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>99.1017</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="99"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="5">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="6">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="7">
+   <print new-system="yes"/>
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="8">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="9">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>99.5645</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="99"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="10">
+   <print new-system="yes"/>
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>101.574</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="101"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="11">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>100.038</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="100"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="12">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>100.992</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="100"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="13">
+   <print new-system="yes"/>
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>100.991</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="100"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="14">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>91.7166</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="91"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="15">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction>
+    <direction-type>
+     <rehearsal>Chorus</rehearsal>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>102.957</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="102"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="16">
+   <print new-system="yes"/>
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>104.173</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="104"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="17">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>104.071</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="104"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="18">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>102.857</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="102"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="19">
+   <print new-system="yes"/>
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>103.867</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="103"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="20">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>103.663</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="103"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="21">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>103.41</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="103"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="22">
+   <print new-system="yes"/>
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="23">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction>
+    <direction-type>
+     <rehearsal>Bridge</rehearsal>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>105.946</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="105"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="24">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>107.561</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="107"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="25">
+   <print new-system="yes"/>
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>105.84</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="105"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="26">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>106.158</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="106"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="27">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="28">
+   <print new-system="yes"/>
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>105.84</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="105"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="29">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>109.793</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="109"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="30">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>109.679</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="109"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="31">
+   <print new-system="yes"/>
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>104.071</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="104"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="32">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>102.36</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="102"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="33">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>97.1009</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="97"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="34">
+   <print new-system="yes"/>
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>94.9238</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="94"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="35">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction>
+    <direction-type>
+     <rehearsal>Outro</rehearsal>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>102.658</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="102"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="36">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>100.322</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="100"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="37">
+   <print new-system="yes"/>
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>101.477</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="101"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="38">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>101.185</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="101"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="39">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>99.755</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="99"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="40">
+   <print new-system="yes"/>
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>99.5205</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="99"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="41">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="42">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>99.8491</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="99"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="43">
+   <print new-system="yes"/>
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>98.1818</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="98"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+  <measure number="44">
+   <attributes>
+    <staff-details number="1">
+<?GP 
+<root>
+<capo>1</capo>
+</root>
+?>
+    </staff-details>
+    <staff-details number="2">
+     <capo>1</capo>
+    </staff-details>
+   </attributes>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <direction placement="above" directive="yes">
+    <direction-type>
+     <metronome default-y="40" parentheses="no">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>100.038</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="100"/>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <notehead>normal</notehead>
+    <staff>1</staff>
+    <notations>
+     <technical>
+<?GP 
+<root>
+<string>5</string>
+<fret>1</fret>
+</root>
+?>
+     </technical>
+    </notations>
+   </note>
+   <backup>
+    <duration>4</duration>
+   </backup>
+   <direction>
+    <direction-type>
+     <dynamics>
+      <f/>
+     </dynamics>
+    </direction-type>
+   </direction>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>1</duration>
+    <voice>5</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>2</staff>
+    <notations>
+     <technical>
+      <string>5</string>
+      <fret>1</fret>
+     </technical>
+    </notations>
+   </note>
+  </measure>
+ </part>
+</score-partwise>
