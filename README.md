@@ -41,9 +41,9 @@ Current Features:
 - Calculate precise timing information
 - Support for compound time signatures (e.g., 6/8)
 - Debug logging for troubleshooting
+- Section editing and rearrangement using OpenAI APIs
 
 Planned Features:
-- Section editing and rearrangement
 - Audio synchronization
 - Snippet management
 - Preview and playback
