@@ -27,6 +27,7 @@ class AudioProcessor:
         self.original_filename = None
         self.crossfade_duration_ms = 20  # Changed to 20ms for even more subtle transitions
         self.fade_duration_ms = 300  # Default fade duration
+        self.channels = None  # Number of audio channels
         logger.debug("AudioProcessor initialized")
         logger.debug(f"Crossfade duration set to: {self.crossfade_duration_ms}ms")
         
@@ -38,6 +39,7 @@ class AudioProcessor:
         self.sample_rate = None
         self.audio_segment = None
         self.duration = None
+        self.channels = None
         # Keep original_filename as it might be needed for exports
         self.crossfade_duration_ms = 20
         self.fade_duration_ms = 300
@@ -62,6 +64,10 @@ class AudioProcessor:
             self.audio_data = audio_data
             self.sample_rate = sample_rate
             
+            # Set number of channels
+            self.channels = 2 if len(audio_data.shape) > 1 else 1
+            logger.debug(f"Audio channels: {self.channels}")
+            
             # Calculate duration
             self.duration = len(self.audio_data) / self.sample_rate
             logger.debug(f"Audio duration: {int(self.duration // 60)}:{int(self.duration % 60):02d}")
@@ -77,6 +83,7 @@ class AudioProcessor:
                 st.session_state.analysis_state['audio_data'] = self.audio_segment
                 st.session_state.analysis_state['audio_duration'] = self.duration
                 st.session_state.analysis_state['sample_rate'] = self.sample_rate
+                st.session_state.analysis_state['channels'] = self.channels
                 logger.debug("Stored audio data in analysis state")
             
             return True, None

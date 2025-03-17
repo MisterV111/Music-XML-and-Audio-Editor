@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.so
+.Python
 
 # Virtual environments
 .venv/
@@ -17,10 +19,12 @@ build/
 .vscode/
 .idea/
 *.swp
+*.swo
 .DS_Store
 
 # Local development settings
 .env
+!.env.example
 *.log
 
 # Temporary files
@@ -31,4 +35,76 @@ htmlcov/
 # Project-specific
 Assets/*.mp3
 Assets/*.wav
-Assets/*.xml 
+Assets/*.ogg
+Assets/*.xml
+Assets/*.rtf
+Assets/**/*.gp
+
+# Test data - explicitly track test files
+!tests/test_data/**/*.xml
+!tests/test_data/**/*.txt
+!tests/test_data/**/*.ogg
+
+# Song-specific test data
+!tests/test_data/songs/**/*.xml
+!tests/test_data/songs/**/*.txt
+!tests/test_data/songs/**/*.ogg
+
+# Remove old directory structure references
+# !tests/test_data/scores/**/*.xml
+# !tests/test_data/timing_data/**/*.txt
+# !tests/test_data/timing_data/**/*.xml
+# !tests/test_data/audio/**/*_sample.ogg
+# !tests/test_data/audio/**/*.ogg
+
+# Ignore audio files except test data
+*.wav
+*.mp3
+*.ogg
+*.m4a
+*.aac
+
+# But allow specific test audio files
+!tests/test_data/audio/**/*.ogg
+
+# Allow test data files
+!tests/test_data/**/*.xml
+!tests/test_data/**/*.txt
+!tests/test_data/**/*.ogg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+Thumbs.db 

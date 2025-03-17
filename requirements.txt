@@ -1,0 +1,22 @@
+# Core dependencies
+pydub>=0.25.1
+music21>=8.1.0
+numpy>=1.24.0
+soundfile>=0.12.1
+
+# Testing dependencies
+pytest>=7.4.0
+pytest-cov>=4.1.0
+psutil>=5.9.0
+coverage>=7.3.0
+
+# Development dependencies
+black>=23.7.0
+flake8>=6.1.0
+mypy>=1.5.0
+isort>=5.12.0
+
+streamlit>=1.28.0
+plotly>=5.18.0
+openai>=1.3.0
+python-dotenv>=1.0.0 

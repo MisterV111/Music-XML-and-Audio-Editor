@@ -434,14 +434,14 @@ def main():
     
     # Custom CSS to modify file uploader appearance
     st.markdown("""
-    <style>
-    .uploadedFile {
-        display: none;
-    }
-    .stFileUploader > div > small {
-        display: none;
-    }
-    </style>
+        <style>
+        .uploadedFile {
+            display: none;
+        }
+        .stFileUploader > div > small {
+            display: none;
+        }
+        </style>
     """, unsafe_allow_html=True)
     
     # Initialize session state if needed
@@ -511,7 +511,7 @@ def main():
             )
         
         # Audio file upload
-        st.markdown("### Audio File (Optional)")
+        st.markdown("### Audio File")
         audio_file = st.file_uploader(
             "Upload Audio File",
             type=['mp3', 'wav', 'ogg'],
@@ -570,18 +570,18 @@ def main():
                         """)
                 else:
                     # Display tempo information from score processor
-                    tempo_changes = editor.score_processor.tempo_changes
-                    if tempo_changes:
-                        tempos = [change['tempo'] for change in tempo_changes]
-                        avg_tempo = sum(tempos) / len(tempos)
-                        min_tempo = min(tempos)
-                        max_tempo = max(tempos)
-                        st.markdown(f"""
+                 tempo_changes = editor.score_processor.tempo_changes
+                if tempo_changes:
+                    tempos = [change['tempo'] for change in tempo_changes]
+                    avg_tempo = sum(tempos) / len(tempos)
+                    min_tempo = min(tempos)
+                    max_tempo = max(tempos)
+                    st.markdown(f"""
                         **Tempo (from Score):**
-                        - Initial: {tempos[0]:.1f} BPM
-                        - Average: {avg_tempo:.1f} BPM
-                        - Range: {min_tempo:.1f} - {max_tempo:.1f} BPM
-                        """)
+                    - Initial: {tempos[0]:.1f} BPM
+                    - Average: {avg_tempo:.1f} BPM
+                    - Range: {min_tempo:.1f} - {max_tempo:.1f} BPM
+                    """)
                 
                 # Display time signature
                 time_analysis = editor.score_processor.analyzer.analyze_time_signature()
@@ -637,8 +637,8 @@ def main():
                 if valid_timing_info:
                     fig = create_section_timeline(valid_timing_info)
                     st.plotly_chart(fig, use_container_width=True, key="structure_timeline")
-        else:
-            st.info("Please process your files in the Main tab first to see the analysis.")
+            else:
+                st.info("Please process your files in the Main tab first to see the analysis.")
     
     with tab2:
         # Analysis tab
@@ -820,7 +820,7 @@ def main():
                         
                         with col2_snip:
                             st.markdown("**Types:**")
-                            for snippet_type, count in type_counts.items():
+                        for snippet_type, count in type_counts.items():
                                 st.markdown(f"- {count} {snippet_type}")
                         
                         # Show snippet details
@@ -865,7 +865,7 @@ def main():
                             for section, info in sorted(valid_timing_info.items(), key=lambda x: x[1]['start']):
                                 duration = info['duration']
                                 st.markdown(f"- **{section}:** {format_duration(duration)} (mm. {info['start_measure']}-{info['end_measure']})")
-                
+
                 # Time Signature Information
                 with st.expander("Time Signature Information", expanded=True):
                     # Display time signature
@@ -937,7 +937,7 @@ def main():
             editing_ui.render(analysis_data)
         else:
             st.warning("Please process your files in the Main tab first to enable editing.")
-
+            
     with tab4:
         # Debug tab
         st.markdown("### Debug Messages")

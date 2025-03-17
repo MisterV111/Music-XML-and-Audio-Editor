@@ -534,10 +534,23 @@ class ScoreAnalyzer:
                         # Format: /snippet type;description;difficulty
                         parts = text.split(';')
                         if len(parts) >= 3:
+                            # Clean up the difficulty value - extract just the number
+                            difficulty_str = parts[2].strip()
+                            try:
+                                # Extract the first number from the string
+                                import re
+                                difficulty_match = re.search(r'\d+', difficulty_str)
+                                if difficulty_match:
+                                    difficulty = difficulty_match.group()
+                                else:
+                                    difficulty = "5"  # Default difficulty if no number found
+                            except:
+                                difficulty = "5"  # Default difficulty on error
+                            
                             current_snippet = {
                                 'type': parts[0].replace('/snippet', '').strip(),
                                 'description': parts[1].strip(),
-                                'difficulty': parts[2].strip(),
+                                'difficulty': difficulty,
                                 'start_measure': measure_number
                             }
                     

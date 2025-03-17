@@ -317,11 +317,11 @@ class EditingUI:
             kept_sections = sections
             removed_sections = []
         
-        with col1:
-            st.markdown("**✅ Keeping:**")
-            st.markdown(", ".join(kept_sections))
-        with col2:
-            st.markdown("**❌ Removing:**")
+            with col1:
+                st.markdown("**✅ Keeping:**")
+                st.markdown(", ".join(kept_sections))
+            with col2:
+                st.markdown("**❌ Removing:**")
             st.markdown(", ".join(removed_sections))
     
     def _create_structure_timeline(self, timing_info: Dict) -> go.Figure:
@@ -450,7 +450,7 @@ class EditingUI:
             # Get fade settings
             fade_in = st.session_state.get('fade_in', False)
             fade_out = st.session_state.get('fade_out', False)
-            
+                
             # Generate preview
             preview = st.session_state.audio_processor.generate_preview(
                 edit_result,
@@ -531,7 +531,7 @@ class EditingUI:
                         st.session_state.ogg_data = f.read()
                 else:
                     st.error(f"Failed to export OGG: {error}")
-                
+            
                 # Store filenames in session state
                 st.session_state.wav_filename = wav_filename
                 st.session_state.ogg_filename = ogg_filename
