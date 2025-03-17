@@ -1,6 +1,6 @@
 # MusicXML and Audio Editor
 
-A powerful Streamlit-based application designed for Yousician content creators to edit and analyze MusicXML scores and audio files. The tool specializes in arranging song exercise versions at different proficiency levels, allowing for customization of song forms, tempos, and key signatures.
+A powerful Streamlit-based application designed to edit and analyze MusicXML scores and audio files used during the production of song-based exercises for the Yousican App. This tool enables users to edit audio files using natural language commands—leveraging OpenAI APIs—to request that specific sections of a song be removed or retained, based on the score and tempo information. Users can preview and download the edited audio in both WAV and OGG formats. Future updates will introduce additional features, including tempo slowdown, pitch and key signature adjustments for both audio and score files, and automatic tempo map generation to ensure seamless synchronization in the Yousician App.
 
 ## Features
 
