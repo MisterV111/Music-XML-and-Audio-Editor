@@ -145,12 +145,7 @@ If you encounter issues:
 
 ## License
 
-This project is currently unlicensed. Choose an appropriate license to protect your work and specify how others can use, modify, and distribute it.
-
-Common options include:
-- MIT License (most permissive)
-- Apache 2.0 License (includes patent protection)
-- GPL-3.0 (ensures derivatives stay open source)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
